@@ -264,9 +264,9 @@ void add_smoke(int y, int x)
             "(  )" , "( )"   , "( )"   , "()"   , "()"  ,
             "O"    , "O"     , "O"     , "O"    , "O"   ,
             " "                                          },
-           {"(@@@)", "(@@@@)", "(@@@@)", "(@@@)", "(@@)",
-            "(@@)" , "(@)"   , "(@)"   , "@@"   , "@@"  ,
-            "@"    , "@"     , "@"     , "@"    , "@"   ,
+           {"(KOEN)", "(KOEN)", "(KOEN)", "(KOEN)", "(KOEN)",
+            "(KOEN)" , "(KOEN)"   , "(KOEN)"   , "KOEN"   , "KOEN"  ,
+            "KOEN"    , "KOEN"     , "KOEN"     , "KOEN"    , "KOEN"   ,
             " "                                          }};
     static char *Eraser[SMOKEPTNS]
         =  {"     ", "      ", "      ", "     ", "    ",
