@@ -264,7 +264,7 @@ void add_smoke(int y, int x)
             "(  )" , "( )"   , "( )"   , "()"   , "()"  ,
             "O"    , "O"     , "O"     , "O"    , "O"   ,
             " "                                          },
-           {"(KOEN)", "(KOEN)", "(KOEN)", "(KOEN)", "(KOEN)",
+           {"(KAF)", "(KAF)", "(KAF)", "(KAF)", "(KAF)",
             "(KOEN)" , "(KOEN)"   , "(KOEN)"   , "KOEN"   , "KOEN"  ,
             "KOEN"    , "KOEN"     , "KOEN"     , "KOEN"    , "KOEN"   ,
             " "                                          }};
